@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Arial-Bold';
+  src: url('fonts/Arial-Bold/Arial Bold.woff2') format('woff2'),
+       url('fonts/Arial-Bold/Arial Bold.woff') format('woff'),
+       url('fonts/Arial-Bold/Arial Bold.ttf')  format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+
+@font-face {
+  font-family: 'Arial-Italic';
+  src: url('fonts/Arial-Italic/Arial Italic.woff2') format('woff2'),
+       url('fonts/Arial-Italic/Arial Italic.woff') format('woff'),
+       url('fonts/Arial-Italic/Arial Italic.ttf')  format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+  
+
+
+@font-face {
+  font-family: 'ArialMT';
+  src: url('fonts/ArialMT/Arial.woff2') format('woff2'),
+       url('fonts/ArialMT/Arial.woff') format('woff'),
+       url('fonts/ArialMT//Arial.ttf')  format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+
+@font-face {
+  font-family: 'MuseoSlab';
+  src: url('fonts/MuseoSlab/MuseoSlab.woff2') format('woff2'),
+       url('fonts/MuseoSlab/MuseoSlab.woff') format('woff'),
+       url('fonts/MuseoSlab/MuseoSlab.ttf')  format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
