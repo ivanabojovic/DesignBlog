@@ -238,5 +238,28 @@ header .navbar-nav li:hover a{
     top:-35px;
     left:5px;
 }
-
+.comments .comments-item {
+    border:1px solid rgba(213,213,213,0.54);
+    background: #f8f8f8;
+}
+.comments .comments-item:nth-of-type(even) {
+    background:light;
+}
+.comments .comments-author {
+    flex-basis:30%;
+    max-width:30%;
+}
+.comments .comments-content {
+    flex-basis:70%;
+    max-width: 70%;
+}
+.comments .comments-author img {
+    border-radius: 4px;
+    border:3px solid #bfbfbf;
+}
+.comments .comments-author-name {
+    font-size:13px;
+    font-family: 'Arial-Bold';
+    color:#515151;
+}
 

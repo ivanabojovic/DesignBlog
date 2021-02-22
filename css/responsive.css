@@ -8,6 +8,14 @@
  .news-navigation > span {
      font-size:22px;
  }
+ .comments .comments-author {
+    flex-basis:20%;
+    max-width:20%;
+}
+.comments .comments-content {
+    flex-basis:80%;
+    max-width: 80%;
+}
 
 
 
