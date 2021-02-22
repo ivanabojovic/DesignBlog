@@ -280,3 +280,33 @@ header .navbar-nav li:hover a{
 .add-comment .btn {
     border-radius:0;
 }
+footer {
+    border-top:1px dotted #8a8a8a;
+   
+}
+footer ul li,
+footer ul li:first-of-type a,
+footer ul li:first-of-type a:hover{
+    font-family: 'Arial-Bold';
+    color:#6d6d6d;
+    font-size:16px;
+    
+    
+}
+footer ul li a,
+footer ul li a:hover{
+    font-family: 'ArialMT';
+    color:#6d6d6d;
+    font-size:16px;
+    text-decoration: none;
+    transition:0.5s ease;
+    display: block;
+}
+footer ul li a:hover {
+    padding-left: 5px;
+}
+footer .footer-about h5 a {
+    text-decoration:none;
+    color:#000;
+    font-family: 'Arial-Bold';
+}
