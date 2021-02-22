@@ -262,4 +262,21 @@ header .navbar-nav li:hover a{
     font-family: 'Arial-Bold';
     color:#515151;
 }
-
+.add-comment {
+    border:1px solid rgba(213,213,213,0.54);
+    background: #f8f8f8;
+}
+.add-comment .form-control {
+    border-radius: 0;
+    background:#fff;
+}
+.add-comment .form-control:focus {
+    box-shadow:0 0 2px rgba(213,213,213,0.9);
+    border-color: #ced4da;
+}
+.add-comment textarea {
+    resize:none;
+}
+.add-comment .btn {
+    border-radius:0;
+}
